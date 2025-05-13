@@ -11,7 +11,9 @@ ________________________________________________________________________________
 
 🔁 Saves extracted fine prints and chat responses to .txt files.
 ___________________________________________________________________________________________
-📁 Project Structure
+## 📁 Project Structure
+
+
 .
 ├── app/
 │   ├── gemini.py          # Functions to call Gemini API
