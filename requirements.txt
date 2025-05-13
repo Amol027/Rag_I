@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+PyPDF2
+google-generativeai
+pydantic
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-api-core
+protobuf==4.25.3
