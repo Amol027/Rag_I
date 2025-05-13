@@ -11,8 +11,9 @@ ________________________________________________________________________________
 
 🔁 Saves extracted fine prints and chat responses to .txt files.
 ___________________________________________________________________________________________
-'''
+
 📁 Project Structure
+```
 .
 ├── app/
 │ ├── gemini.py # Functions to call Gemini API
@@ -25,7 +26,7 @@ ________________________________________________________________________________
 ├── chat_response.txt # Q&A responses saved here
 ├── requirements.txt
 └── README.md
-'''
+```
 ____________________________________________________________________________________________
 ⚙️ Setup Instructions
 1. ✅ Clone the repository
