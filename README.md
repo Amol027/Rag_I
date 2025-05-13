@@ -12,18 +12,16 @@ ________________________________________________________________________________
 🔁 Saves extracted fine prints and chat responses to .txt files.
 ___________________________________________________________________________________________
 ## 📁 Project Structure
-
-
 .
 ├── app/
-│   ├── gemini.py          # Functions to call Gemini API
-│   └── utils.py           # PDF text extraction logic
+│ ├── gemini.py # Functions to call Gemini API
+│ └── utils.py # PDF text extraction logic
 ├── data/
-│   └── your_files.pdf     # Place IFB/IFPQ PDFs here
-├── main.py                # FastAPI app with /fine-prints and /chat routes
-├── sample_questions.txt   # List of questions (one per line)
-├── fine_prints.txt        # Generated summary from PDF
-├── chat_response.txt      # Q&A responses saved here
+│ └── your_files.pdf # Place IFB/IFPQ PDFs here
+├── main.py # FastAPI app with /fine-prints and /chat routes
+├── sample_questions.txt # List of questions (one per line)
+├── fine_prints.txt # Generated summary from PDF
+├── chat_response.txt # Q&A responses saved here
 ├── requirements.txt
 └── README.md
 ____________________________________________________________________________________________
